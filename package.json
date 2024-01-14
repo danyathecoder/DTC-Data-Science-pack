@@ -1,0 +1,26 @@
+{
+  "name": "dtc-ds-pack",
+  "displayName": "DTC Data Science pack",
+  "publisher": "danyathecoder",
+  "description": "This pack contains extensions to work with IPython notebooks.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danyathecoder/DTC-Data-Science-pack.git"
+  },
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "mechatroner.rainbow-csv",
+    "ms-toolsai.jupyter",
+    "ms-toolsai.jupyter-keymap",
+    "ms-toolsai.jupyter-renderers",
+    "ms-toolsai.vscode-jupyter-cell-tags",
+    "ms-toolsai.vscode-jupyter-slideshow"
+  ]
+}
